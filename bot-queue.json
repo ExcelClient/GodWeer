@@ -11,6 +11,12 @@
       "user": "Admin",
       "detail": "NPT-AXJV-NVJX-E8RL · 14 дней · EXC-82SU5W",
       "at": "2026-08-06T12:01:35.166Z"
+    },
+    {
+      "type": "deactivate",
+      "user": "Admin",
+      "detail": "NPT-AXJV-NVJX-E8RL",
+      "at": "2026-08-06T12:01:40.063Z"
     }
   ]
 }
