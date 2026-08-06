@@ -23,6 +23,12 @@
       "user": "Admin",
       "detail": "NPT-AKNN-CB2N-MUB3 · 14 дней · EXC-82SU5W",
       "at": "2026-08-06T12:01:44.103Z"
+    },
+    {
+      "type": "activate",
+      "user": "Admin",
+      "detail": "NPT-AKNN-CB2N-MUB3 · 14 дн.",
+      "at": "2026-08-06T12:01:48.980Z"
     }
   ]
 }
