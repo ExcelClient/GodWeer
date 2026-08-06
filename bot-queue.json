@@ -47,6 +47,12 @@
       "user": "Admin",
       "detail": "NPT-AB3K-JUEG-4PH7 · 14 дней · EXC-J5REPJ",
       "at": "2026-08-06T13:34:30.545Z"
+    },
+    {
+      "type": "activate",
+      "user": "Admin",
+      "detail": "NPT-AB3K-JUEG-4PH7 · 14 дн.",
+      "at": "2026-08-06T13:34:39.046Z"
     }
   ]
 }
