@@ -5,6 +5,12 @@
       "user": "Admin",
       "detail": "NPT-AB3K-JUEG-4PH7",
       "at": "2026-08-07T19:41:12.325Z"
+    },
+    {
+      "type": "deactivate",
+      "user": "Admin",
+      "detail": "NPT-D8PJ-CR86-H77M",
+      "at": "2026-08-07T19:41:15.530Z"
     }
   ]
 }
