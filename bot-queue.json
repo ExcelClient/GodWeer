@@ -1,3 +1,10 @@
 {
-  "items": []
+  "items": [
+    {
+      "type": "deactivate",
+      "user": "Admin",
+      "detail": "NPT-DR3F-GWZW-TS88",
+      "at": "2026-08-07T19:58:59.252Z"
+    }
+  ]
 }
