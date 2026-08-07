@@ -1,3 +1,10 @@
 {
-  "items": []
+  "items": [
+    {
+      "type": "issue",
+      "user": "Admin",
+      "detail": "NPT-DMQA-URFT-YSCD · 180 дней · EXC-BQYEUY",
+      "at": "2026-08-07T19:42:47.978Z"
+    }
+  ]
 }
