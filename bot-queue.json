@@ -1,3 +1,10 @@
 {
-  "items": []
+  "items": [
+    {
+      "type": "revoke",
+      "user": "Admin",
+      "detail": "NPT-AB3K-JUEG-4PH7",
+      "at": "2026-08-07T19:41:12.325Z"
+    }
+  ]
 }
