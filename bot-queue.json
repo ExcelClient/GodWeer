@@ -1,3 +1,10 @@
 {
-  "items": []
+  "items": [
+    {
+      "type": "issue",
+      "user": "Admin",
+      "detail": "NPT-D2JL-DENG-M4PB · 180 дней · EXC-BG8FGV",
+      "at": "2026-08-09T15:25:45.175Z"
+    }
+  ]
 }
